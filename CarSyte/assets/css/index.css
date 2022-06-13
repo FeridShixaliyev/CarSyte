@@ -1,0 +1,237 @@
+.nav-item a{
+    color: black;
+    font-size: 18px;
+    transition: 0.3s;
+}
+.nav-item a:hover{
+    color: blue;
+}
+#first{
+    height: 383px;
+    background-image:url(/assets/images/Brabus-pushes-the-Mercedes-G-Class-SUV-to-900-hp.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#first h1{
+    color: white;
+    font-size: 55px;
+}
+#first h4{
+    color: white;
+    font-weight: 400;
+}
+#first .container .row .left{
+    margin-top: 245px;
+}
+#first .container .row .right{
+    width: 350px;
+    height: 384px;
+    background-color: #2842cdf5;
+    border: 1.6px solid white;
+    margin-top: 50px;
+}
+#first .container .row .right .title{
+    text-align: center;
+    margin-top: 31px;
+}
+.right h2{
+    color: white;
+}
+.right button{
+    width: 100%;
+    background-color: #ffed00;
+    height: 51px;
+    transition: 0.3s;
+}
+.right button h6{
+    color: black;
+}
+.right button:hover{
+    background-color: black;
+}
+.right button:hover h6{
+    color: white;
+}
+#second{
+    margin-top: 50px;
+}
+#second .col-lg-12{
+    text-align: center;
+}
+.title .title-left{
+    font-weight: 400;
+}
+.title .title-left .blue-title{
+    color: blue !important;
+}
+#second .col-lg-12 .line{
+    align-items: center;
+    height: 2px;
+    width: 77px;
+    background-color: blue;
+}
+.second-line{
+    display: flex;
+    justify-content: center;
+}
+.little-line{
+    width: 13px;
+    background-color: blue;
+    margin-left: 6px;
+}
+.second-title{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.second-text p{
+    margin: 34px;
+}
+.col-lg-12{
+    display: flex;
+    margin-bottom: 20px;
+}
+.col-lg-12 .col-lg-2{
+    width: 60px;
+    height: 60px;
+    background-color: #2842cd;
+}
+.col-lg-2{
+    padding: 15px;
+}
+.col-lg-2 i{
+    color: white;
+    font-size: 25px;
+}
+#third{
+    background-color: #f2f6f7;
+}
+.third-title{
+    display: flex;
+    justify-content: center;
+    margin: 37px;
+}
+.third-line{
+    display: flex;
+    justify-content: center;
+}
+.third-line .line{
+    align-items: center;
+    height: 2px;
+    width: 77px;
+    background-color: blue;
+}
+#fifth{
+    background-image: url(../images/amg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 290px;
+}
+.col-lg-3 .icon{
+    color: white;
+    font-size: 90px;
+}
+.statistica h1{
+    color: white;
+    font-size: 79px;
+    font-weight: 700;
+}
+.statistica p{
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#footer-first{
+    height: 160px;
+    background-color: #2842cd;
+}
+#footer-first .col-lg-4{
+    padding: 33px;
+}
+#footer-first .col-lg-4 h1{
+    color: white;
+}
+#footer-first .col-lg-4 p{
+    color: white;
+}
+#footer-first input{
+    height: 63px;
+    width: 531px;
+}
+#footer-first .col-lg-8{
+    padding: 46px;
+    display: flex;
+}
+#footer-first .col-lg-8 button{
+    height: 63px;
+    width: 170px;
+    border: none;
+    background-color: white;
+    background-color: #1691ea;
+    display: flex;
+    padding: 21px;
+}
+#footer-first .col-lg-8 button h5{
+    color: white;
+    font-weight: 700;
+}
+#footer-first .col-lg-8 button i{
+    font-size: 21px;
+    color: white;
+    margin-left: 10px;
+}
+.gmap_canvas{
+    width: 960px !important;
+}
+.mapouter{
+    width: 960px;
+}
+.foot{
+    display: flex;
+}
+.foot-right{
+    background-color: #3c3737;
+    padding: 73px;
+}
+.foot-right button{
+    background-color: white;
+    transition: 0.5s;
+}
+.foot-right button h6{
+   color: #03369a;
+}
+.foot-right button:hover{
+    background-color: #03369a;
+}
+.foot-right button:hover h6{
+    color: white;
+}
+.foot-right .mb-3 input{
+    background-color: #3c3737;
+}
+.foot-right .mb-3 textarea{
+    background-color: #3c3737;
+}
+#foot-end{
+    padding-top:20px ;
+}
+#foot-end .container .row .col-lg-4 .icon{
+    width: 60px;
+    height: 60px;
+    border: 0.5px solid #03369a;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-right: 24px;
+}
+
+#foot-end .container .row .col-lg-4 .icon i{
+    font-size: 25px;
+    margin-top: 10px; 
+    color: #03369a;
+}
+#foot-end .container .row .col-lg-4 {
+    display: flex;
+}
